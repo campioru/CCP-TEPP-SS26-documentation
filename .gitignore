@@ -2,5 +2,8 @@
 .pixi/*
 pixi*
 !.pixi/config.toml
-
 .gitattributes
+
+# Doxyfile stuff
+html/*
+latex/*
