@@ -21,7 +21,17 @@ typedef struct {
 /// @param filename Path to the file to read
 /// @return A populated Dataset with our data points
 Dataset read_data(const char *filename);
+
+// TODO document these
+/// @brief 
+/// @param data 
+/// @param slope 
+/// @param intercept 
 void solve_least_squares(const Dataset *data, double *slope, double *intercept);
+
+/// @brief 
+/// @param slope 
+/// @param intercept 
 void print_solution(double slope, double intercept);
 
 #endif // LEAST_SQUARES_H
