@@ -7,3 +7,6 @@ pixi*
 # Doxyfile stuff
 html/*
 latex/*
+
+# Grid repo
+Grid/*
