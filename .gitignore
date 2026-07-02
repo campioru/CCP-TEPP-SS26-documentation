@@ -10,3 +10,6 @@ latex/*
 
 # Grid repo
 Grid/*
+
+# sphinx
+sphinx-docs/build/*
