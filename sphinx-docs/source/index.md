@@ -2,12 +2,8 @@
 
 Morp Meep
 
-```{contents}
-```
+```{toctree}
+:maxdepth: 1
 
-```{math}
-\min_\delta \| y - x\,\delta \|
-```
-
-```{literalinclude} ../../example/solve_least_squares.c
+examples/example1.md
 ```
